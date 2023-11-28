@@ -1,1 +1,1 @@
-VARIABLES IF ELSE WHILE 
+python if else loops and functions in python
